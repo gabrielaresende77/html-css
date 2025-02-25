@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.925);
+    text-align: center;
+}
+
+.youtube {
+    text-decoration: none;
+    color: white;
+}
