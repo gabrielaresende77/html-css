@@ -56,12 +56,12 @@ a:hover {
 }
 
 #imagem1 {
-    background: black url('imagens/background001.jpg') center center / cover fixed;
+    background: black url('../imagens/background001.jpg') center center / cover fixed;
     box-shadow: inset -2px -1px 20px 0px rgba(0, 0, 0, 0.705);
 }
 
 #imagem2 {
-    background: black url('imagens/background002.jpg') center center / cover fixed;
+    background: black url('../imagens/background002.jpg') center center / cover fixed;
     box-shadow: inset -2px -1px 20px 0px rgba(0, 0, 0, 0.705);
 }
 
