@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Meus Projetos</title>
+</head>
+<body>
+  <h1>Meus Projetos</h1>
+  <ul>
+    <li><a href="./projeto/projeto-cordel/">Projeto Cordel</a></li>
+    <li><a href="./projeto/projeto-android/">Projeto Android</a></li>
+  </ul>
+</body>
+</html>
