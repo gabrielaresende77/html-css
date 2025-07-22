@@ -1,0 +1,4 @@
+# projeto-cordel
+Projeto Cordel criado no desafio 12 do curso de HTML5 e CSS3 do Curso em Vídeo.
+
+https://gabrielaresende77.github.io/projeto-cordel/
